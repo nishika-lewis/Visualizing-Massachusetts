@@ -32,7 +32,7 @@ We leveraged real data from the City of Boston and Massachusetts towns to explor
 📂 `Zakim-Bridge-Infographic`
 
 **🛠️ Tech Stack:** Illustrator (Design), Typography, Color Contrast  
-📸 ![Zakim-Bridge-Infographic gif](https://github.com/user-attachments/assets/8f9e0938-e8b5-407a-b1eb-a45ab5b5d699)
+![Zakim-Bridge-Infographic gif](https://github.com/user-attachments/assets/8f9e0938-e8b5-407a-b1eb-a45ab5b5d699)
 
 
 A visual infographic to portray the iconic Zakim Bridge using typographic balance and strong visual contrast.
@@ -63,7 +63,7 @@ A static data visualization showing rain patterns over time using pure SVG drawi
 📂 `Women_owned_Businesses`
 
 **🛠️ Tech Stack:** D3.js, GSAP, Plotly, HTML/CSS  
-📸 ![Business types](https://github.com/user-attachments/assets/3c6160a9-b6ac-4159-9a43-b478ca871483)
+ ![Business types](https://github.com/user-attachments/assets/3c6160a9-b6ac-4159-9a43-b478ca871483)
 
 
 A rich, animated data story exploring self-identified women-owned businesses in Boston — highlighting diversity, digital presence, and business categories through scroll-based storytelling.
